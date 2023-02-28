@@ -1,13 +1,14 @@
-body {
-    background:#9f9cda;
+.hero {
+    background:#f9f7fe;
+    text-align: center;
 }
 
 h1 {
     color: black;
-    font-family: 'Poppins', sans sarif;
+    font-family: 'Playfair Display', serif;
     font-weight: bold;
 }
 
 p {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
 }
