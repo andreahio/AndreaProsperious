@@ -81,6 +81,7 @@ h2 {
     padding: 80px 20px;
 }
 .project-description {
+    background:#f9f7fe;
     padding: 120px 60px;
 }
 @media (max-width: 960px) {
