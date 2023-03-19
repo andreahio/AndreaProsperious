@@ -147,3 +147,7 @@ line-height: 80px;
 color:#d328a0;
 font-size: 58px;
 }
+
+.logo {
+    max-width: 150px;
+}
