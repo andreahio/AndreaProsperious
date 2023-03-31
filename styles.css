@@ -92,35 +92,7 @@ h3 {
     padding: 120px 60px;
     text-align: center;
 }
-@media (max-width: 920px) {
-    .project-description {
-        padding: 0;
-        text-align:center;
-    }
-    h1 {
-        font-size: 50px;
-        line-height: 1.5;
-    }
-    h2 {
-        font-size: 40px;
-    }
-    .about-section {
-        text-align: center;
-        padding:0px;
-    }
-    footer .content-box {
-        padding:30px;
-    }
-    h3 {
-        font-size: 20px;
-    }
-    
-    .email-link {
-font-size: 15px;
-padding-left: 20px;
-padding-right: 20px;
-}
-}
+
 .about section {
     padding: 160px 20px;
 
@@ -235,4 +207,33 @@ transition: all 100ms ease-in-out;
 footer .social-links a:hover {
     color:white;
     background: var(--branding-color);
+}
+@media (max-width: 920px) {
+    .project-description {
+        padding: 0;
+        text-align:center;
+    }
+    h1 {
+        font-size: 38px;
+        line-height: 1.5;
+    }
+    h2 {
+        font-size: 38px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    .about-section {
+        text-align: center;
+        padding:0px;
+    }
+    footer .content-box {
+        padding:30px;
+    }
+    
+    .email-link {
+font-size: 15px;
+padding-left: 20px;
+padding-right: 20px;
+}
 }
